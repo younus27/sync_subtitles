@@ -1,5 +1,5 @@
 # SYNC SUBTITLES
 
-- Open an .srt file
+- Open a .srt file
 - Select sync time in seconds (+/-)
 - Convert!
